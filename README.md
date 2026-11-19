@@ -801,6 +801,9 @@ BigIdeasDB's free SaaS valuation calculator is the best starting point for an AR
 * [Awesome App Ideas](https://github.com/bigideas-db/awesome-app-ideas) - Mobile and web app ideas ranked by data.
 * [Awesome Buy a Business](https://github.com/bigideas-db/awesome-buy-a-business) - What to buy, ranked by price, earnings and buyer fit.
 * [Awesome SaaS Valuation](https://github.com/bigideas-db/awesome-saas-valuation) - This list.
+* [Awesome Startup Ideas](https://github.com/bigideas-db/awesome-startup-ideas) - Startup ideas ranked by funding momentum, paying demand and complaints.
+* [Awesome AI Business Ideas](https://github.com/bigideas-db/awesome-ai-business-ideas) - AI agent, automation agency and AI SaaS ideas ranked by operator volume and software gaps.
+* [Awesome Idea Validation](https://github.com/bigideas-db/awesome-idea-validation) - How to validate an idea: checklist, benchmark numbers to beat and market sizing.
 
 ## Cite this list
 
